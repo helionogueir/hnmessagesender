@@ -1,0 +1,10 @@
+{
+    "uri": "http:\/\/",
+    "method": "post",
+    "publicOrAccessKey": "GGk37Qqh3DSfbd674743Snbfd6g646Dbdy46nbfjuf",
+    "secretOrPrivateKey": "Dnsge4iwb273vSdn363Sfnf7343Fdfjdt64WSg34",
+    "options": {
+        "algorithm": "HS256",
+        "clockTolerance": 300
+    }
+}
